@@ -17,6 +17,10 @@
 
 **new [1]** SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence (https://github.com/SCU-BRL/SeetaFaceEngine)
 
+**[2]** FaceNet: A Unified Embedding for Face Recognition and Clustering (https://arxiv.org/pdf/1503.03832v3.pdf) (Triplets)
+
+**[3]** Learning Descriptors for Object Recognition and 3D Pose Estimation (https://arxiv.org/pdf/1502.05908v2.pdf) (Triplets)
+
 ## 3 DataSets
 **[1]** Many datasets http://www.face-rec.org/databases/
 
@@ -36,10 +40,14 @@
 
 **[4]** LFW http://vis-www.cs.umass.edu/lfw/results.html
 
+## 5 Additional
+**[1]** Resnets
+ - paper (https://arxiv.org/pdf/1512.03385v1.pdf)
+ - original models (https://github.com/KaimingHe/deep-residual-networks)
+ - Training and investigating Residual Nets (http://torch.ch/blog/2016/02/04/resnets.html)
 
 
-
-
+ Batch Normalization(https://arxiv.org/pdf/1502.03167v3.pdf)
 
 
 
