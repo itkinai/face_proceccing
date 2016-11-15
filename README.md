@@ -15,8 +15,16 @@
 
 ## 2 Recognition
 
+**new [1]** SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence (https://github.com/SCU-BRL/SeetaFaceEngine)
+
 ## 3 DataSets
-http://www.face-rec.org/databases/
+**[1]** Many datasets http://www.face-rec.org/databases/
+
+**[2]** CASIA ~10k ident, ~400k image 
+
+**[3]** Megaface #2 4.7 million faces, 672K identities, and their respective bounding boxes. Very dirty. (http://megaface.cs.washington.edu/dataset/download_training.html) 
+
+**[4]** Microsoft, Entities: 99k   Average Image#/Entity: 85
 
 
 ## 4 Challenges
