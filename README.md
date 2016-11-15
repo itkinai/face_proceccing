@@ -20,6 +20,7 @@
 **[2]** FaceNet: A Unified Embedding for Face Recognition and Clustering (https://arxiv.org/pdf/1503.03832v3.pdf) (Triplets)
 
 **[3]** Learning Descriptors for Object Recognition and 3D Pose Estimation (https://arxiv.org/pdf/1502.05908v2.pdf) (Triplets)
+https://arxiv.org/pdf/1606.05413v1.pdf
 
 ## 3 DataSets
 **[1]** Many datasets http://www.face-rec.org/databases/
@@ -43,6 +44,9 @@
 ## 5 Additional
 **[1]** Resnets
  - paper (https://arxiv.org/pdf/1512.03385v1.pdf)
+ - Identity Mappings in Deep Residual Networks (https://arxiv.org/pdf/1603.05027v3.pdf)
+ - Wide Residual Networks (https://arxiv.org/pdf/1605.07146v1.pdf)
+ 
  - original models (https://github.com/KaimingHe/deep-residual-networks)
  - Training and investigating Residual Nets (http://torch.ch/blog/2016/02/04/resnets.html)
 
