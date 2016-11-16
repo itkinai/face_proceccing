@@ -2,10 +2,10 @@
 
 ## Table of Contents
 - [Face processing](#face-processing)
-  - [Detection](#face-detection)
-  - [Recognition](#face-recognition)
-  - [DataSets](#face-dataSets)
-  - [Challenges](#face-challenges)
+  - [Detection](#detection)
+  - [Recognition](#recognition)
+  - [DataSets](#dataSets)
+  - [Challenges](#challenges)
 
 ## Face processing
 
