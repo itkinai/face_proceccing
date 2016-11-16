@@ -1,4 +1,4 @@
-## Notes about face detection, recognition and e.t.c
+# Notes about face detection, recognition and e.t.c
 
 ## Table of Contents
 - [Face processing](#face-processing)
