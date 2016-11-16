@@ -6,12 +6,17 @@
 ## 1 Detection
 **[1]** Constrained Local Neural Fields for robust facial landmark detection in the wild (https://www.cl.cam.ac.uk/~tb346/pub/papers/iccv2013.pdf)
 
-**[2]** Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks 
+**[2]** (1.09.16) Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks 
 
  - https://arxiv.org/pdf/1604.02878v1.pdf
  - github(Matlab): https://github.com/kpzhang93/MTCNN_face_detection_alignment
  - github(MXNet): https://github.com/pangyupo/mxnet_mtcnn_face_detection
  - github: https://github.com/DaFuCoding/MTCNN_Caffe
+
+**[3]** (11.10.16) Dlib CNN detector (http://blog.dlib.net/2016/10/easily-create-high-quality-object.html)
+
+**[4]** (11.06.16) Face Detection with the Faster R-CNN https://arxiv.org/pdf/1606.03473v1.pdf
+
 
 ## 2 Recognition
 
@@ -31,6 +36,8 @@ https://arxiv.org/pdf/1606.05413v1.pdf
 
 **[4]** Microsoft, Entities: 99k   Average Image#/Entity: 85
 https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
+
+**[5]** dlib face detection dataset http://dlib.net/files/data/dlib_face_detection_dataset-2016-09-30.tar.gz
 
 ## 4 Challenges
 **[1]** Megaface #1 http://megaface.cs.washington.edu/results/facescrubresults.html
@@ -64,7 +71,11 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
  - https://github.com/openimages/dataset
 
 
+
+
 ## 3 Other
+
+ Object detection networks https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 
  Deeplearning-papernotes https://github.com/dennybritz/deeplearning-papernotes
 
