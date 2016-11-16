@@ -1,4 +1,4 @@
-# Notes about face detection, recognition and e.t.c
+## Notes about face detection, recognition and e.t.c
 
 
 ---------------------------------------
@@ -30,7 +30,7 @@ https://arxiv.org/pdf/1606.05413v1.pdf
 **[3]** Megaface #2 4.7 million faces, 672K identities, and their respective bounding boxes. Very dirty. (http://megaface.cs.washington.edu/dataset/download_training.html) 
 
 **[4]** Microsoft, Entities: 99k   Average Image#/Entity: 85
-
+https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
 
 ## 4 Challenges
 **[1]** Megaface #1 http://megaface.cs.washington.edu/results/facescrubresults.html
@@ -41,22 +41,47 @@ https://arxiv.org/pdf/1606.05413v1.pdf
 
 **[4]** LFW http://vis-www.cs.umass.edu/lfw/results.html
 
-## 5 Additional
+---------------------------------------
+## Other useful materials
+
+## 1 Archetictures
 **[1]** Resnets
  - paper (https://arxiv.org/pdf/1512.03385v1.pdf)
  - Identity Mappings in Deep Residual Networks (https://arxiv.org/pdf/1603.05027v3.pdf)
- - Wide Residual Networks (https://arxiv.org/pdf/1605.07146v1.pdf)
- 
+ - Wide Residual Networks (https://arxiv.org/pdf/1605.07146v1.pdf) 
  - original models (https://github.com/KaimingHe/deep-residual-networks)
  - Training and investigating Residual Nets (http://torch.ch/blog/2016/02/04/resnets.html)
 
-
- Batch Normalization(https://arxiv.org/pdf/1502.03167v3.pdf)
-
+**[2]** Google Inseption
 
 
+**[3]** Batch Normalization (https://arxiv.org/pdf/1502.03167v3.pdf)
+
+
+## 2 Datasets
+**[1]** Google Open Images	
+ - http://academictorrents.com/details/9e9194e21ce045deee8d811481b4cd676b20b06b
+ - https://github.com/openimages/dataset
+
+
+## 3 Other
+
+ Deeplearning-papernotes https://github.com/dennybritz/deeplearning-papernotes
+
+ Deep-Learning-Papers-Reading-Roadmap (https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 
 
 
+ Good ML blog (Paper Rewiew , literature sets, ... ) http://www.erogol.com/machine-learning/
 
+ Neural-network-zoo http://www.asimovinstitute.org/neural-network-zoo/
+
+ Style Transfer by Mail.ru https://habrahabr.ru/company/mailru/blog/306916/ (from blog https://habrahabr.ru/users/mephistopheies/topics/)
+
+ Acceleration package for neural networks on multi-core CPUs https://github.com/Maratyszcza/NNPACK
+
+
+
+
+ ML books https://tproger.ru/books/9-free-books-about-machine-learning/
