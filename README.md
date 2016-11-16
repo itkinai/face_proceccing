@@ -49,7 +49,7 @@ new [1] SeetaFace Engine is an open source C++ face recognition engine, which ca
 ### DataSets
 * Many datasets http://www.face-rec.org/databases/
 
-* R CASIA ~10k ident, ~400k image 
+*(R) CASIA ~10k ident, ~400k image 
 
 * R Megaface #2 4.7 million faces, 672K identities, and their respective bounding boxes. Very dirty. (http://megaface.cs.washington.edu/dataset/download_training.html) 
 
