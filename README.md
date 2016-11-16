@@ -8,6 +8,7 @@
   - [Challenges](#challenges)
 - [Other useful materials](#Other-useful-materials)
   - [Archetictures](#archetictures)
+  - [Datasets](#datasets)
   - [Other](#other)
 
 ## Face processing
@@ -96,7 +97,7 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
  - https://habrahabr.ru/post/309302/
 
 
-### 2 Datasets
+### Datasets
 * Google Open Images	
  - http://academictorrents.com/details/9e9194e21ce045deee8d811481b4cd676b20b06b
  - https://github.com/openimages/dataset
