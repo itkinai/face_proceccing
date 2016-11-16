@@ -6,16 +6,18 @@
 ## 1 Detection
 **[1]** Constrained Local Neural Fields for robust facial landmark detection in the wild (https://www.cl.cam.ac.uk/~tb346/pub/papers/iccv2013.pdf)
 
-**[2]** (1.09.16) Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks 
+**[2]** (1.09.16) Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks - WIDER FACE 2016 second result
 
  - https://arxiv.org/pdf/1604.02878v1.pdf
  - github(Matlab): https://github.com/kpzhang93/MTCNN_face_detection_alignment
  - github(MXNet): https://github.com/pangyupo/mxnet_mtcnn_face_detection
  - github: https://github.com/DaFuCoding/MTCNN_Caffe
 
-**[3]** (11.10.16) Dlib CNN detector (http://blog.dlib.net/2016/10/easily-create-high-quality-object.html)
+**[3]** (17.06.16) CMS-RCNN: Contextual Multi-Scale Region-based CNN for Unconstrained Face Detection (https://arxiv.org/pdf/1606.05413v1.pdf) - WIDER FACE 2016 first result
 
-**[4]** (11.06.16) Face Detection with the Faster R-CNN https://arxiv.org/pdf/1606.03473v1.pdf
+**[4]** (11.10.16) Dlib CNN detector (http://blog.dlib.net/2016/10/easily-create-high-quality-object.html)
+
+**[5]** (11.06.16) Face Detection with the Faster R-CNN https://arxiv.org/pdf/1606.03473v1.pdf
 
 
 ## 2 Recognition
@@ -25,28 +27,35 @@
 **[2]** FaceNet: A Unified Embedding for Face Recognition and Clustering (https://arxiv.org/pdf/1503.03832v3.pdf) (Triplets)
 
 **[3]** Learning Descriptors for Object Recognition and 3D Pose Estimation (https://arxiv.org/pdf/1502.05908v2.pdf) (Triplets)
-https://arxiv.org/pdf/1606.05413v1.pdf
+
+R - Recognition
+D - Detection
 
 ## 3 DataSets
 **[1]** Many datasets http://www.face-rec.org/databases/
 
-**[2]** CASIA ~10k ident, ~400k image 
+**[2] R**CASIA ~10k ident, ~400k image 
 
-**[3]** Megaface #2 4.7 million faces, 672K identities, and their respective bounding boxes. Very dirty. (http://megaface.cs.washington.edu/dataset/download_training.html) 
+**[3] R** Megaface #2 4.7 million faces, 672K identities, and their respective bounding boxes. Very dirty. (http://megaface.cs.washington.edu/dataset/download_training.html) 
 
-**[4]** Microsoft, Entities: 99k   Average Image#/Entity: 85
+**[4] R** Microsoft, Entities: 99k   Average Image#/Entity: 85
 https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
 
-**[5]** dlib face detection dataset http://dlib.net/files/data/dlib_face_detection_dataset-2016-09-30.tar.gz
+**[5] R** dlib face detection dataset http://dlib.net/files/data/dlib_face_detection_dataset-2016-09-30.tar.gz
+
+**[6] D** WIDER FACE http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
 
 ## 4 Challenges
-**[1]** Megaface #1 http://megaface.cs.washington.edu/results/facescrubresults.html
 
-**[2]** Megaface #2 http://megaface.cs.washington.edu/results/facescrubresults_challenge2.html
+**[1] R** Megaface #1 http://megaface.cs.washington.edu/results/facescrubresults.html 
 
-**[3]** Microsoft https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
+**[2] R** Megaface #2 http://megaface.cs.washington.edu/results/facescrubresults_challenge2.html
 
-**[4]** LFW http://vis-www.cs.umass.edu/lfw/results.html
+**[3] R** Microsoft https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
+
+**[4] R** LFW http://vis-www.cs.umass.edu/lfw/results.html
+
+**[5] D** WIDER FACE http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
 
 ---------------------------------------
 ## Other useful materials
