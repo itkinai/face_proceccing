@@ -108,32 +108,32 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
 
 ### Other
 
- Object detection networks https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
+* Object detection networks https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 
- A curated list of deep learning resources for computer vision https://github.com/kjw0612/awesome-deep-vision#
+* A curated list of deep learning resources for computer vision https://github.com/kjw0612/awesome-deep-vision#
 
- Deeplearning-papernotes https://github.com/dennybritz/deeplearning-papernotes
+* Deeplearning-papernotes https://github.com/dennybritz/deeplearning-papernotes
 
- Deep-Learning-Papers-Reading-Roadmap (https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
+* Deep-Learning-Papers-Reading-Roadmap (https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 
 
- Systematic evaluation of CNN advances on the ImageNet https://arxiv.org/pdf/1606.02228v1.pdf
+* Systematic evaluation of CNN advances on the ImageNet https://arxiv.org/pdf/1606.02228v1.pdf
 
- Good ML blog (Paper Rewiew , literature sets, ... ) http://www.erogol.com/machine-learning/
+* Good ML blog (Paper Rewiew , literature sets, ... ) http://www.erogol.com/machine-learning/
 
- Neural-network-zoo http://www.asimovinstitute.org/neural-network-zoo/
+* Neural-network-zoo http://www.asimovinstitute.org/neural-network-zoo/
 
- Deep-learning by Mail.ru 
-  - https://habrahabr.ru/company/mailru/blog/306916/ 
-  - https://habrahabr.ru/company/mailru/blog/311706/
-  - https://habrahabr.ru/users/mephistopheies/topics/
+* Deep-learning by Mail.ru 
+	- https://habrahabr.ru/company/mailru/blog/306916/ 
+	- https://habrahabr.ru/company/mailru/blog/311706/
+	- https://habrahabr.ru/users/mephistopheies/topics/
 
- Acceleration package for neural networks on multi-core CPUs https://github.com/Maratyszcza/NNPACK
+* Acceleration package for neural networks on multi-core CPUs https://github.com/Maratyszcza/NNPACK
 
- This project is about explaining what machine learning classifiers (or models) are doing. https://github.com/marcotcr/lime
+* This project is about explaining what machine learning classifiers (or models) are doing. https://github.com/marcotcr/lime
 
- ML books https://tproger.ru/books/9-free-books-about-machine-learning/
+* ML books https://tproger.ru/books/9-free-books-about-machine-learning/
 
- PlaNet - Photo Geolocation with Convolutional Neural Networks 
- - https://github.com/dmakian/LittlePlaNet
- - https://arxiv.org/pdf/1602.05314v1.pdf
+* PlaNet - Photo Geolocation with Convolutional Neural Networks 
+	- https://github.com/dmakian/LittlePlaNet
+	- https://arxiv.org/pdf/1602.05314v1.pdf
