@@ -8,7 +8,6 @@
   - [Challenges](#face-challenges)
 
 ## Face processing
----------------------------------------
 
 ### 1 Detection
 **[1]** Constrained Local Neural Fields for robust facial landmark detection in the wild (https://www.cl.cam.ac.uk/~tb346/pub/papers/iccv2013.pdf)
