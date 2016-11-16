@@ -92,7 +92,7 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
  - Pretrained models https://research.googleblog.com/2016/08/improving-inception-and-image.html
  - https://habrahabr.ru/post/301084/ , https://habrahabr.ru/post/302242/ , https://habrahabr.ru/post/303196/
 
-* Batch Normalization 
+* Batch Normalization
  - https://arxiv.org/pdf/1502.03167v3.pdf
  - https://habrahabr.ru/post/309302/
 
@@ -136,3 +136,5 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
 * PlaNet - Photo Geolocation with Convolutional Neural Networks 
 	- https://github.com/dmakian/LittlePlaNet
 	- https://arxiv.org/pdf/1602.05314v1.pdf
+
+* Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures https://www.cs.cmu.edu/~mfredrik/papers/fjr2015ccs.pdf
