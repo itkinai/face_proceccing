@@ -6,6 +6,9 @@
   - [Recognition](#recognition)
   - [DataSets](#dataSets)
   - [Challenges](#challenges)
+- [Other useful materials](#Other-useful-materials)
+  - [Archetictures](#archetictures)
+  - [Other](#other)
 
 ## Face processing
 
@@ -78,7 +81,7 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
 ---------------------------------------
 ## Other useful materials
 
-### 1 Archetictures
+### Archetictures
 **[1]** Resnets
  - paper (https://arxiv.org/pdf/1512.03385v1.pdf)
  - Identity Mappings in Deep Residual Networks (https://arxiv.org/pdf/1603.05027v3.pdf)
@@ -103,7 +106,7 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
 
 
 
-### 3 Other
+### Other
 
  Object detection networks https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 
