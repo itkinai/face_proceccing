@@ -9,7 +9,7 @@
 
 ## Face processing
 
-### 1 Detection
+### Detection
 **[1]** Constrained Local Neural Fields for robust facial landmark detection in the wild (https://www.cl.cam.ac.uk/~tb346/pub/papers/iccv2013.pdf)
 
 **[2]** (1.09.16) Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Networks - WIDER FACE 2016 second result
@@ -34,7 +34,7 @@
 
 **[8]** face-frontalization https://github.com/dougsouza/face-frontalization
 
-### 2 Recognition
+### Recognition
 
 **new [1]** SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence (https://github.com/SCU-BRL/SeetaFaceEngine)
 
@@ -45,7 +45,7 @@
 R - Recognition
 D - Detection
 
-### 3 DataSets
+### DataSets
 **[1]** Many datasets http://www.face-rec.org/databases/
 
 **[2] R**CASIA ~10k ident, ~400k image 
@@ -61,7 +61,7 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
 
 **[7] D** FDDB http://vis-www.cs.umass.edu/fddb/
 
-### 4 Challenges
+### Challenges
 
 **[1] R** Megaface #1 http://megaface.cs.washington.edu/results/facescrubresults.html 
 
