@@ -39,7 +39,7 @@
 
 ### Recognition
 
-new [1] SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence (https://github.com/SCU-BRL/SeetaFaceEngine)
+* SeetaFace Engine is an open source C++ face recognition engine, which can run on CPU with no third-party dependence (https://github.com/SCU-BRL/SeetaFaceEngine)
 
 * FaceNet: A Unified Embedding for Face Recognition and Clustering (https://arxiv.org/pdf/1503.03832v3.pdf) (Triplets)
 
@@ -49,32 +49,32 @@ new [1] SeetaFace Engine is an open source C++ face recognition engine, which ca
 ### DataSets
 * Many datasets http://www.face-rec.org/databases/
 
-*(R) CASIA ~10k ident, ~400k image 
+* (R) CASIA ~10k ident, ~400k image 
 
-* R Megaface #2 4.7 million faces, 672K identities, and their respective bounding boxes. Very dirty. (http://megaface.cs.washington.edu/dataset/download_training.html) 
+* (R) Megaface #2 4.7 million faces, 672K identities, and their respective bounding boxes. Very dirty. (http://megaface.cs.washington.edu/dataset/download_training.html) 
 
-* R Microsoft, Entities: 99k   Average Image#/Entity: 85
+* (R) Microsoft, Entities: 99k   Average Image#/Entity: 85
 https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
 
-* R dlib face detection dataset http://dlib.net/files/data/dlib_face_detection_dataset-2016-09-30.tar.gz
+* (R) dlib face detection dataset http://dlib.net/files/data/dlib_face_detection_dataset-2016-09-30.tar.gz
 
-* D WIDER FACE http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
+* (D) WIDER FACE http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
 
-* D FDDB http://vis-www.cs.umass.edu/fddb/
+* (D) FDDB http://vis-www.cs.umass.edu/fddb/
 
 ### Challenges
 
-* R Megaface #1 http://megaface.cs.washington.edu/results/facescrubresults.html 
+* (R) Megaface #1 http://megaface.cs.washington.edu/results/facescrubresults.html 
 
-* R Megaface #2 http://megaface.cs.washington.edu/results/facescrubresults_challenge2.html
+* (R) Megaface #2 http://megaface.cs.washington.edu/results/facescrubresults_challenge2.html
 
-* R Microsoft https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
+* (R) Microsoft https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizing-one-million-celebrities-real-world/
 
-* R LFW http://vis-www.cs.umass.edu/lfw/results.html
+* (R) LFW http://vis-www.cs.umass.edu/lfw/results.html
 
-* D WIDER FACE http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
+* (D) WIDER FACE http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/
 
-* D FDDB http://vis-www.cs.umass.edu/fddb/
+* (D) FDDB http://vis-www.cs.umass.edu/fddb/
 
 ---------------------------------------
 ## Other useful materials
