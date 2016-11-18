@@ -10,8 +10,8 @@
   - [Archetictures](#archetictures)
   - [Datasets](#datasets-1)
   - [Other](#other)
-  - [ComputerVision](#computervision)
-  - [ClosedCircles](#closedcircles)
+  - [Computer Vision](#computer-vision)
+  - [Closed Circles](#closed-circles)
 
 ## Face processing
 
@@ -104,12 +104,12 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
  - http://academictorrents.com/details/9e9194e21ce045deee8d811481b4cd676b20b06b
  - https://github.com/openimages/dataset
 
-###ClosedCircles
+###Closed Circles
 * R-CNN begining https://closedcircles.com/chat?circle=14&msg=6270387
 * FC, Fast R-CNN https://closedcircles.com/chat?circle=14&msg=6283288
 * Recognize text from image https://closedcircles.com/chat?circle=14&msg=6322383#
 
-###ComputerVision 
+###Computer Vision 
 * Non-maximum-suppression object detection python http://www.pyimagesearch.com/2014/11/17/non-maximum-suppression-object-detection-python/
 
 
