@@ -4,7 +4,7 @@
 - [Face processing](#face-processing)
   - [Detection](#detection)
   - [Recognition](#recognition)
-  - [DataSets](#dataSets)
+  - [DataSets](#datasets)
   - [Challenges](#challenges)
 - [Other useful materials](#Other-useful-materials)
   - [Archetictures](#archetictures)
