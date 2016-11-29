@@ -65,6 +65,13 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
 
 * (D) FDDB http://vis-www.cs.umass.edu/fddb/
 
+* (R) Large-scale CelebFaces Attributes (CelebA) Dataset http://mmlab.ie.cuhk.edu.hk/projects/CelebA.html
+
+* (R) ColorFeret
+
+* (R) YoutubeFaces
+
+
 ### Challenges
 
 * (R) Megaface #1 http://megaface.cs.washington.edu/results/facescrubresults.html 
@@ -114,6 +121,7 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
 
 
 ### Other
+* Collaborative Open Computer Science - projects and papers http://www.gitxiv.com/
 
 * Object detection networks https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 
@@ -147,3 +155,14 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
 
 * Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures https://www.cs.cmu.edu/~mfredrik/papers/fjr2015ccs.pdf
 
+
+### Courses
+* Stanford CS Visual Recognition (http://cs231n.github.io/) http://cs231n.github.io/convolutional-networks/#convert
+
+
+https://closedcircles.com/chat?circle=14&msg=6782717
+http://www.erogol.com/what-i-read-lately/
+https://arxiv.org/pdf/1610.00243v1.pdf
+https://arxiv.org/pdf/1601.05030v1.pdf
+https://arxiv.org/pdf/1507.02672v2.pdf
+https://arxiv.org/pdf/1610.08401v2.pdf
