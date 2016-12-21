@@ -125,6 +125,7 @@ https://www.microsoft.com/en-us/research/project/ms-celeb-1m-challenge-recognizi
 
 
 ### Other
+* METRIC LEARNING WITH ADAPTIVE DENSITY DISCRIMINATION Magnet Loss https://arxiv.org/pdf/1511.05939v2.pdf
 * Collaborative Open Computer Science - projects and papers http://www.gitxiv.com/
 
 * Object detection networks https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
