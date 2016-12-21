@@ -48,6 +48,10 @@
 
 * Learning Descriptors for Object Recognition and 3D Pose Estimation (https://arxiv.org/pdf/1502.05908v2.pdf) (Triplets)
 
+* Deep Face Recognition VGGFace (https://www.robots.ox.ac.uk/~vgg/publications/2015/Parkhi15/parkhi15.pdf)
+
+* Center Loss (https://github.com/ydwen/caffe-face)
+
 
 ### DataSets
 * Many datasets http://www.face-rec.org/databases/
